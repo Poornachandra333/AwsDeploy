@@ -1,0 +1,17 @@
+### Java/Maven ###
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+### Eclipse ###
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+
+### Operating System ###
+Thumbs.db
+.DS_Store

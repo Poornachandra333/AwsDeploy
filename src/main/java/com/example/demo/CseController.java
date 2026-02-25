@@ -10,12 +10,12 @@ public class CseController {
 	
 	@GetMapping("/home")
 	public String rocks() {
-		return " Hey Welcome to Jenkins AWS";
+		return " Hey Client This is our Home ";
 	}
 	
-	@GetMapping("/adityaIt")
+	@GetMapping("/message")
 	public String rocks1() {
-		return "Welcome to Aditya CSE";
+		return "Hey Client Welcome  to this Page  This is 23MH1A05O4";
 	}
 	
 }

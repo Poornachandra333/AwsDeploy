@@ -13,10 +13,9 @@ public class CseController {
 		return " Hey Welcome to Jenkins AWS";
 	}
 	
-	
 	@GetMapping("/adityaIt")
 	public String rocks1() {
-		return "Welcome to Aditya IT";
+		return "Welcome to Aditya CSE";
 	}
 	
 }

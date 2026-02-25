@@ -14,6 +14,10 @@ public class CseController {
 	}
 	
 	
+	@GetMapping("/adityaIt")
+	public String rocks1() {
+		return "Welcome to Aditya IT";
+	}
 	
 }
 
